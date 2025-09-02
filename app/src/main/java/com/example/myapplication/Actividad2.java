@@ -19,7 +19,7 @@ public class Actividad2 extends AppCompatActivity {
 
         // Lo muestra llega el string
         Resultado.setText(dato);
-        //casa 2
+        //casa 2 2
     }
 
 }
